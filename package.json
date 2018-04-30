@@ -1,0 +1,19 @@
+{
+  "name": "ulap",
+  "version": "1.0.0",
+  "description": "CQRS library for NodeJS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "ts-node node_modules/jasmine/bin/jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^2.8.3"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^2.8.6",
+    "jasmine": "^3.1.0",
+    "ts-node": "^6.0.2"
+  }
+}
